@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">customFloatView</string>
+    <string name="click_button_send_text">点击发送数据:</string>
+    <string name="click_button_show_float_view">点击展示FloatView:</string>
+</resources>
